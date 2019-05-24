@@ -1,0 +1,3 @@
+
+- If you want to use mixed content (you are super lazy and don't want to hassle with SSL certificates) then you must install CloudFlare Flexible Plugin for wordpress
+- Also make sure that »flexible« policy is selected in CloudFlare
